@@ -3,7 +3,7 @@ DEV - Clone ChatGPT with Node.js + React.js
 
 
 ## Requirements:
-* Plugin vscode (TL Draw) = DEV Architecture Projectgit status
+* Plugin vscode (TL Draw) = DEV Architecture Project
 * Create new account for login OpenIA
 * Create new Key API Open IA 
 
